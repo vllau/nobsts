@@ -5,6 +5,8 @@
 3. Add ts-node using `yarn add ts-node -D`
 4. Initialise a typescript configuration file (tsconfig) using `npx tsc --init`
 
+# To compile typescript to javascript
+`npx tsx <typescript file name>`
 
 ## Shortcuts
 
